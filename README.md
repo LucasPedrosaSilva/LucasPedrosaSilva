@@ -1,6 +1,6 @@
 - 👋ola @LucasPedrosaSilva
 - 👀 tenho interesse em vaga na area de desenvolvimente web 
-- 🌱 atualmente estou aprendendo php e js. tenho e experiencia em vb.net c# e python
+- 🌱 atualmente trabalho com php e js. tenho e experiencia em vb.net c# e python
 - 💞️ procuro vaga para poder somar na equipe
 - 📫 contato: lucaspesilva20@gmail.com
 
